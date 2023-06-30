@@ -1,0 +1,27 @@
+.h1 {
+  font-size: 40px;
+  margin-top: 40px;
+  margin-bottom: 5px;
+}
+
+.h3 {
+  margin-top: 20px;
+}
+
+.synonymsDiv {
+  color: blue;
+  font-size: 25px;
+}
+.synonyms {
+  margin-left: 10px;
+  color: purple;
+  font-size: 20px;
+}
+.meaningDiv {
+  color: green;
+  font-size: 25px;
+}
+
+.listsynonyms {
+  margin-bottom: 40px;
+}
